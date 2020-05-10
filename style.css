@@ -1,5 +1,5 @@
 /* Add your CSS code here */
-* {
+ {
     font-family: Helvetica, Arial, sans-serif;
     max-width: 700px;
     margin: auto;
@@ -19,6 +19,9 @@ profileBody {
     width: 75%;
     height: 590px;
   }
-strong{
-    font-family:algerian;
-}
+div {
+    display:block;
+  }
+strong {
+    font-weight:bold;
+  }
